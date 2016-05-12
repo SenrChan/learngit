@@ -1,2 +1,2 @@
 Today is a special day.
-no.
+yes or no.
